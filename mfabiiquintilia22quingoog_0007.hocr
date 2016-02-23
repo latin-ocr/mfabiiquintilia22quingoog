@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mfabiiquintilia22quingoog_0007.png"; bbox 0 0 2188 3757; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 49 1465 1763 2109">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 49 1341 1763 2109">
+     <span class='ocr_line' id='line_1_1' title="bbox 177 1465 1763 1624; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 177 1465 1763 1624; x_wconf 85' lang='lat' dir='ltr'><strong>INSTITUTIONE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 49 1651 1416 2109; baseline -0.008 -151"><span class='ocrx_word' id='word_1_2' title='bbox 49 1651 61 2109; x_wconf 50' lang='grc' dir='ltr'>ἑ</span> <span class='ocrx_word' id='word_1_3' title='bbox 259 1982 266 1987; x_wconf 44' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 554 1755 1416 1958; x_wconf 56' lang='lat' dir='ltr'><strong>ORATORIAJ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 50 2234 59 2313">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 50 2234 90 2755">
+     <span class='ocr_line' id='line_1_3' title="bbox 50 2234 59 2313; baseline 0 112"><span class='ocrx_word' id='word_1_5' title='bbox 50 2234 59 2313; x_wconf 76' lang='lat'><em>&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
